@@ -1,7 +1,0 @@
-{
-  "shipments": [
-    {"trackingNumber": "PET12345", "petName": "Buddy", "status": "In Transit", "location": "Chicago, IL", "estimatedDelivery": "2025-07-15"},
-    {"trackingNumber": "PET67890", "petName": "Luna", "status": "Delivered", "location": "New York, NY", "estimatedDelivery": "2025-07-20"},
-    {"trackingNumber": "PET11223", "petName": "Max", "status": "Pending", "location": "Columbus, OH", "estimatedDelivery": "2025-07-18"}
-  ]
-}
